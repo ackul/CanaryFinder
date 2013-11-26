@@ -19,13 +19,11 @@ Options:
   
 
 For more info, please see my project page on:
-
 Achin Kulshrestha, @Geekmonk
-
 http://www.achin.in
 
 
 
 [+] The Windows Code is not stable yet. Need to add more checks.
 
-![alt tag](https://raw.github.com/achinkulshrestha/CanaryFinder/master/img/windows-CanaryFinder.jpg)
+![alt tag](https://github.com/achinkulshrestha/CanaryFinder/blob/master/img/windows-CanaryFinder.png)
